@@ -15,11 +15,17 @@ Slack
 Join `#students` and `#codecamp`!
 
 Invite: http://djangogirlsseoulslackin.herokuapp.com
+
 Website: http://djangogirlsseoul.slack.com
+
 Slack Mac: https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12
+
 Slack Windows: https://slack.com/ssb/download-win
+
 Slack Linux: https://slack.com/downloads
+
 Slack iOS: https://itunes.apple.com/app/slack-app/id618783545?ls=1&mt=8
+
 Slack Android: https://play.google.com/store/apps/details?id=com.Slack
 
 
