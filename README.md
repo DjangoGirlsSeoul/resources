@@ -11,7 +11,8 @@ Online Courses
 Online Python Tutor: 
 http://www.pythontutor.com/visualize.html#mode=edit
 
-
+Hacker Rank (practice python coding!)
+https://www.hackerrank.com/domains/fp/intro
 
 Slack
 ---
