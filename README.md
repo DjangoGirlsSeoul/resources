@@ -8,6 +8,7 @@ Online Courses
 4. Programming for Everyone English - http://www.pythonlearn.com/book.php
 5. Programming for Everyone Coursera - https://www.coursera.org/learn/python
 
+Online Python Tutor: 
 http://www.pythontutor.com/visualize.html#mode=edit
 
 
