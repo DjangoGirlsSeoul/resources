@@ -4,9 +4,10 @@ Resources
 Python Online Course
 파이썬 온라인 코스
 
-1. CodeCademy 한글 - http://codecademy.com/tracks/python-ko
-2. CodeCademy English - codecademy.com/tracks/python
-3. Programming for Everyone 한글 - http://python.xwmooc.org/
+1. [CodeCademy 한글](http://codecademy.com/tracks/python-ko)
+2. [CodeCademy English](http://codecademy.com/tracks/python)
+
+3. [Programming for Everyone - http://python.xwmooc.org/
 4. Programming for Everyone English - http://www.pythonlearn.com/book.php
 5. Programming for Everyone Coursera - https://www.coursera.org/learn/python
 
